@@ -1,0 +1,63 @@
+{
+    "activeFile": "nivel1.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "lava1.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "lava2.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "nivel1.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 159,
+                "y": 154
+            }
+        },
+        "nivel_tutorial.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 276,
+                "y": 194
+            }
+        },
+        "recursosGenerales.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        }
+    },
+    "last.exportedFilePath": "C:/Users/pedro/Desktop/el-piso-es-lava-poc-2026/tiled-project",
+    "last.imagePath": "C:/Users/pedro/Desktop/el-piso-es-lava-poc-2026/recursos",
+    "map.height": 15,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.width": 30,
+    "openFiles": [
+        "nivel_tutorial.tmx",
+        "lava1.tsx",
+        "lava2.tsx",
+        "recursosGenerales.tsx",
+        "nivel1.tmx"
+    ],
+    "project": "el-piso-es-lava-poc-2026.tiled-project",
+    "recentFiles": [
+        "nivel_tutorial.tmx",
+        "lava1.tsx",
+        "lava2.tsx",
+        "recursosGenerales.tsx",
+        "nivel1.tmx"
+    ],
+    "tileset.lastUsedExportFilter": "JSON tileset files (*.tsj *.json)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.type": 0
+}
